@@ -1,12 +1,7 @@
 # 👋 Hi, I’m Errol Brandt
 ### Founder of Kiraa, the world's first virtual Business Analyst
 
----
-
-- 🔐 **Prevent Knowledge Gaps** – Secure what matters most.  
-- ⚡ **Boost Productivity** – Unlock the full potential of your team.
-
-🎥 [**Watch Our Story on YouTube**](https://youtu.be/ZcoxQLJD-Hs)
+[![Watch Our Story on YouTube](https://img.youtube.com/vi/ZcoxQLJD-Hs/maxresdefault.jpg)](https://youtu.be/ZcoxQLJD-Hs)
 
 ---
 
@@ -17,4 +12,4 @@
 
 ---
 
-Better Decisions Faster
+# Kiraa - Better Decisions Faster
