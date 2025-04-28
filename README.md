@@ -1,35 +1,20 @@
-<div align="center">
-
-# 👋 **Hi, I’m Errol Brandt**  
-### *Founder of Knowledge Orchestrator*  
+# 👋 Hi, I’m Errol Brandt
+### Founder of Kiraa, the world's first virtual Business Analyst
 
 ---
 
-🌟 **"We protect against catastrophic knowledge loss and empower humans to be more productive."** 🌟
+- 🔐 **Prevent Knowledge Gaps** – Secure what matters most.  
+- ⚡ **Boost Productivity** – Unlock the full potential of your team.
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 **About Me**  
-As the founder of **Knowledge Orchestrator**, my mission is simple yet profound:  
-To revolutionize how organizations safeguard their knowledge and maximize human potential.  
-
-🔐 **Prevent Knowledge Gaps** – Secure what matters most.  
-⚡ **Boost Productivity** – Unlock the full potential of your team.  
-
-</div>
+🎥 [**Watch Our Story on YouTube**](https://youtu.be/ZcoxQLJD-Hs)
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
+- 💻 [**Explore Our Platform**](https://www.kiraa.ai)
+- 📩 [**Contact Me**](mailto:errol.brandt@knowledge-orchestrator.com)
+- 💼 [**Follow on LinkedIn**](https://www.linkedin.com/company/kiraa-ai)
 
-Be part of the journey to redefine enterprise knowledge management
+---
 
-💻 [**Explore Our Platform**](https://www.knowledge-orchestrator.com)  
-📩 [**Contact Me**](mailto:errol.brandt@knowledge-orchestrator.com)  
-💼 [**Follow on LinkedIn**](https://www.linkedin.com/company/knowledge-orchestrator/)
-
-</div>
+Better Decisions Faster
