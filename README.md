@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Errol Brandt
 ### Founder of Kiraa, the world's first virtual Business Analyst
 
-[![Watch Our Story on YouTube](https://img.youtube.com/vi/ZcoxQLJD-Hs/maxresdefault.jpg)](https://youtu.be/ZcoxQLJD-Hs)
 
 ---
 
